@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Docker, Python**
    
-⚡ Fun fact **Favorite subject in School is Math**
+⚡ Fun fact **My Favorite Subject in School is Math**
 
  </div>
  
