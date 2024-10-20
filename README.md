@@ -66,7 +66,6 @@
 <br/>
 
 <div align="center">
-<a href='mailto:hibamallat040@gmail.com' target='_blank'><img height='64' style='border:0px;height:64px;' alt='Contact me' /></a>
 </div>
 
 <br/>
