@@ -12,7 +12,7 @@
  
  🔭 I’m Open to Work
  
- 🌱 I’m currently learning **Docker, Python**
+ 🌱 I’m currently learning **Python**
    
 ⚡ Fun fact **My Favorite Subject in School is Math**
 
