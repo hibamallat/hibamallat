@@ -4,17 +4,17 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFFF&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub!;+I'm+Hiba+Mallat!;" />
 </h1>
 
-<h3 align="center">A Software Engineer TO BE, From Lebanon </h3>
+<h3 align="center">An Aspiring Software Engineer from Lebanon</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 I’m Open to Work
+💼 I'm open to work
  
- 🌱 I’m currently learning **Python**
+🐍 I’m currently learning **Python**
    
-⚡ Fun fact **My Favorite Subject in School is Math**
+📐 Fun fact **My Favorite Subject in School is Math**
 
  </div>
  
