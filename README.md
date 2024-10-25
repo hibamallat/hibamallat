@@ -33,8 +33,8 @@
 <h2 align="center">⚒️ Languages-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,jenkins,docker,ansible,terraform,kubernetes" /><br>
-    <img src="https://skillicons.dev/icons?i=github,git,python,javascript,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,python,javascript,c,java" /><br>
 </div>
 
 <br/>
