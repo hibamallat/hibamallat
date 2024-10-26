@@ -10,7 +10,7 @@
 
 <div align="center">
  
-💼 I'm open to work
+🔍 I'm open to work
  
 🐍 I’m currently learning **Python**
    
@@ -41,7 +41,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>✨ My Contributions ✨</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hibamallat/hibamallat/output/github-contribution-grid-snake.svg" />
   
@@ -50,7 +50,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">📈 Stats 📈</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=hibamallat&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
