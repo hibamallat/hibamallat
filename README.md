@@ -8,7 +8,7 @@
 
 <br/>
 
-<div align="left">
+<div align="left" color=fadcd9>
  
 🔍 I'm open to work
  
