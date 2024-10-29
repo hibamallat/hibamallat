@@ -9,11 +9,11 @@
 <br/>
 
 <div align="center">
- 
 🔍 I'm open to work
-🐍 I’m currently learning **Python**
-📐 Fun fact **My Favorite Subject in School is Math**
 
+🐍 I’m currently learning **Python**
+
+📐 Fun fact **My Favorite Subject in School is Math**
  </div>
  
 <div align="center"> 
@@ -29,7 +29,6 @@
  <hr/>
  
 <h2 align="center">🛠️ Languages - Tools 🛠️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode" />
     <img src="https://skillicons.dev/icons?i=github,git,python,java" /><br>
