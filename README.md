@@ -1,14 +1,14 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hibamallat.hibamallat" />
 
-<h1 align="left">
+<h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=FF0080&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub!;+I'm+Hiba+Mallat!;" />
 </h1>
 
-<h3 align="left">An Aspiring Software Engineer from Lebanon</h3>
+<h3 align="center">An Aspiring Software Engineer from Lebanon</h3>
 
 <br/>
 
-<div align="left" color=fadcd9>
+<div align="center">
  
 🔍 I'm open to work
  
