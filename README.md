@@ -11,9 +11,7 @@
 <div align="center">
  
 🔍 I'm open to work
- 
 🐍 I’m currently learning **Python**
-   
 📐 Fun fact **My Favorite Subject in School is Math**
 
  </div>
