@@ -7,6 +7,7 @@
 <h3 align="center">An Aspiring Software Engineer from Lebanon</h3>
 
 <div align="center">
+<br/>
     
 🔍 I'm open to work
 
