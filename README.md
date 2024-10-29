@@ -19,10 +19,6 @@
 
  </div>
  
-
-
- <hr/>
- 
 <h2 align="center">🛠️ Languages - Tools 🛠️</h2>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode" />
@@ -31,7 +27,6 @@
 
 <br/>
 
-
 <div align="center">
   <h2>✨ My Contributions ✨</h2>
   
@@ -39,8 +34,6 @@
   
   <br/>
 </div>
-
-<hr/>
 
 <h2 align="center">📊 Stats 📊</h2>
 <br>
@@ -51,10 +44,7 @@
 <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=hibamallat&hide=HTML&langs_count=8&layout=compact&theme=aura&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
-
-<hr/>
-
+<br/>
 <br/>
 
 <div align="center">
