@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=a047ed&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+GitHub!;" />
 </h1>
 
-<h3 align="center">An Ambitious Software Engineer in the Making from Lebanon &#x1F1F1;&#x1F1E7</h3>
+<h3 align="center">An Ambitious Software Engineer in the Making, from Lebanon </h3>
 
 <div align="center">
 <br/>
