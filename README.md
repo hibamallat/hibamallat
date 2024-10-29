@@ -6,7 +6,6 @@
 
 <h3 align="center">An Aspiring Software Engineer from Lebanon</h3>
 
-
 <div align="center">
     
 🔍 I'm open to work
@@ -40,7 +39,7 @@
 
 <div align="center">
   <h2>✨ My Contributions ✨</h2>
-  <br>
+  
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/hibamallat/hibamallat/output/github-contribution-grid-snake.svg" />
   
   <br/>
