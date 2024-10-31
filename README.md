@@ -9,11 +9,11 @@
 <div align="center">
 <br/>
     
-🔍 I'm open to work
+🔍 I am seeking job and internship opportunities
 
-🐍 I’m currently learning **Python**
+🐍 I’m currently learning: **Python**
 
-📬 How to reach me **hibamallat040@gmail.com**
+📬 How to reach me: **hibamallat040@gmail.com**
 
 📐 Fun fact **My Favorite Subject in School is Math**
 
