@@ -11,6 +11,8 @@
     
 🔍 I am seeking job and internship opportunities
 
+📚 Passionate about continuous learning in tech
+
 🐍 I’m currently learning: **Python**
 
 📬 How to reach me: **hibamallat040@gmail.com**
