@@ -1,8 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hibamallat.hibamallat" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/? 
-font=Righteous&size=30&color=a47dab&center=true&vCenter=true&width=500&height=65&duration=5000&lines=Welcome+to+my+GitHub!;+Dive+in;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&color=a47dab&center=true&vCenter=true&width=500&height=65&duration=5000&lines=Welcome+to+my+GitHub!;+Dive+in;" />
 </h1>
 
 <h3 align="center">An Ambitious Software Engineer in the Making, from Lebanon </h3>
