@@ -15,7 +15,7 @@
 
 🐍 I’m currently learning: **Python**
 
-📬 How to reach me: **hibamallat040@gmail.com**
+💌 How to reach me: **hibamallat040@gmail.com**
 
 📐 Fun fact **My Favorite Subject in School is Math**
 
