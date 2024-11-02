@@ -1,12 +1,12 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hibamallat.hibamallat" />
 
-<h1 align="center">
+<h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&color=a47dab&center=true&vCenter=true&width=500&height=65&duration=4000&lines=Welcome+to+my+GitHub!;+Dive+in+if+you're+ready;" />
 </h1>
 
-<h3 align="center">An Ambitious Software Engineer in the Making, from Lebanon </h3>
+<h3 align="left">An Ambitious Software Engineer in the Making, from Lebanon </h3>
 
-<div align="center">
+<div align="left">
 <br/>
     
 🔍 I am seeking job and internship opportunities
