@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="left">An Ambitious Software Engineer in the making, from Lebanon </h3>
-
+<div>
 <div align="left">
 <br/>
     
@@ -24,7 +24,7 @@
  <div height=-400 align="right">
      <img height=250 width=200 src="https://i.pinimg.com/564x/6a/25/ff/6a25ff0e2c8d33e6ede55cb939774ce2.jpg" />
  </div>
- 
+</div>
 <h2 align="left">🛠️ Languages - Tools 🛠️</h2>
 <br/>
 <div align="left">
