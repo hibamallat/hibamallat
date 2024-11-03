@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=hibamallat.hibamallat" />
 
-<h1 align="left">
+<h1 align="left" style="flex: 1;">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=15&color=a47dab&left=true&vLeft=true&width=500&height=55&duration=4000&lines=Welcome+to+my+GitHub!;+Dive+in+if+you're+ready;" />
 </h1>
 
