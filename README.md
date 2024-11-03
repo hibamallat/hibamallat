@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="left">An Ambitious Software Engineer in the making, from Lebanon </h3>
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between;">
 <div align="left">
 <br/>
     
@@ -20,7 +20,7 @@
 📐 Fun fact **My Favorite Subject in School is Math**
 
  </div>
- <div style="flex: 0 0 auto;">
+ <div align="right">
      <img height=250 width=200 src="https://i.pinimg.com/564x/d3/96/1a/d3961a9e434320520d83d648eefcebcd.jpg" />
  </div>
 </div>
