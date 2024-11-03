@@ -22,7 +22,7 @@
  </div>
 
  <div height=-400 align="right">
-     <img height=250 width=200 src="https://i.pinimg.com/736x/3c/12/ce/3c12ce937389eafa242eb14ceb2d1edf.jpg" />
+     <img height=250 width=200 src="https://www.pinterest.com/pin/1055599907029096/" />
  </div>
 </div>
 <h2 align="left">🛠️ Languages - Tools 🛠️</h2>
