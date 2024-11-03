@@ -21,9 +21,9 @@
 
  </div>
 
- <div akign="right"
+ <div akign="right">
      <img src="file:///C:/Users/10Rs6/Downloads/b147110d-45d1-4c38-a95b-44d5bd4a6e91.webp" />
-div/> 
+ </div>
 <h2 align="left">🛠️ Languages - Tools 🛠️</h2>
 <br/>
 <div align="left">
