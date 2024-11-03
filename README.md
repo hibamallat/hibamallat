@@ -7,7 +7,7 @@
 <h3 align="left">An Ambitious Software Engineer in the making, from Lebanon </h3>
 <br/>
  
- <img align="right" src="https://tenor.com/view/scaler-create-impact-hello-world-coding-programming-gif-25012064" />
+ <img align="right" src="https://images.app.goo.gl/VJ8VcPLUZEND8Tm6A" />
  
 <div align="left">
     
