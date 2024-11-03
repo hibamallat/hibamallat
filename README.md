@@ -21,7 +21,7 @@
 
  </div>
  <div align="right">
-     <img height=250 width=200 src="https://i.pinimg.com/564x/d3/96/1a/d3961a9e434320520d83d648eefcebcd.jpg" />
+     <img height=300 width=300 src="https://i.pinimg.com/564x/d3/96/1a/d3961a9e434320520d83d648eefcebcd.jpg" />
  </div>
 </div>
 <h2 align="left">🛠️ Languages - Tools 🛠️</h2>
