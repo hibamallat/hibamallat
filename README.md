@@ -20,7 +20,7 @@
 📐 Fun fact **My Favorite Subject in School is Math**
 
  </div>
- <div height=-400 align="right">
+ <div style="flex: 0 0 auto;">
      <img height=250 width=200 src="https://i.pinimg.com/564x/d3/96/1a/d3961a9e434320520d83d648eefcebcd.jpg" />
  </div>
 </div>
