@@ -7,7 +7,7 @@
 <h3 align="left">An Ambitious Software Engineer in the making, from Lebanon </h3>
 <br/>
  
- <img align="right" height=250 width=350 src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVuOHY4Y3Fyd2ZmZHQzNGxqdWZnaTFiOXNrdDhiMnlwZjJlcDdiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" />
+ <img align="right" height=250 width=300 src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVuOHY4Y3Fyd2ZmZHQzNGxqdWZnaTFiOXNrdDhiMnlwZjJlcDdiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" />
  
 <div align="left">
     
@@ -17,7 +17,7 @@
 
 🐍 I’m currently learning: **Python**
 
-💌 How to reach me: **hibamallat040@gmail.com**
+💌 You can reach me at: **hibamallat040@gmail.com**
 
 📐 Fun fact **My Favorite Subject in School is Math**
 
