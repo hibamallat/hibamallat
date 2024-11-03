@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="left">An Ambitious Software Engineer in the making, from Lebanon </h3>
-<div style="display: flex; justify-content: space-between; height:-200">
+<div style="display: flex; justify-content: space-between; height:-1000">
 <div align="left">
 <br/>
     
