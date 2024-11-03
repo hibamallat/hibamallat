@@ -7,7 +7,7 @@
 <h3 align="left">An Ambitious Software Engineer in the making, from Lebanon </h3>
 <br/>
  
- <img align="right" height=250 width=300 src="https://tenor.com/view/helloworld-helloworld-print-gif-6212979890677268640" />
+ <img align="right" src="https://tenor.com/view/helloworld-helloworld-print-gif-6212979890677268640" />
  
 <div align="left">
     
