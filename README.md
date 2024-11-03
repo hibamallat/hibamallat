@@ -21,9 +21,10 @@
 
  </div>
 
- <div akign="right">
-     <img src="https://i.pinimg.com/564x/6a/25/ff/6a25ff0e2c8d33e6ede55cb939774ce2.jpg" />
+ <div align="right">
+     <img height=50 src="https://i.pinimg.com/564x/6a/25/ff/6a25ff0e2c8d33e6ede55cb939774ce2.jpg" />
  </div>
+ 
 <h2 align="left">🛠️ Languages - Tools 🛠️</h2>
 <br/>
 <div align="left">
