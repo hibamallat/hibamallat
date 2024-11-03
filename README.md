@@ -7,7 +7,7 @@
 <h3 align="left">An Ambitious Software Engineer in the making, from Lebanon </h3>
 <br/>
  
- <img align="right" width=400 height=400 src="https://ih1.redbubble.net/image.556752169.2192/flat,750x1000,075,f.u5.jpg" />
+ <img align="right" width=400 height=300 src="https://ih1.redbubble.net/image.556752169.2192/flat,750x1000,075,f.u5.jpg" />
  
 <div align="left">
     
