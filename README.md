@@ -22,7 +22,7 @@
  </div>
 
  <div akign="right">
-     <img src="[file:///C:/Users/10Rs6/Downloads/b147110d-45d1-4c38-a95b-44d5bd4a6e91.webp](https://is.zobj.net/image-server/v1/images?r=sBzm23KQ45zrQEvmouTx_LHnd05tUD80otRo0S_QUtyTq3Ga03I3TXhSCiHqN01eLpEo6Q3IRBkJyUg6eUQtHD2E7V9k2qiwNa5wKyN04OXg7kQ49EFXjTUaTf2LSh6VH16Pwmahf_QJqca1LGSy5diDVa1OiLTZ97aEeuqUIS-U3YSTPJHULk2xwIl6UhHYfYiUdS95X0HPiHZOr7nQ1hyZ2chNTPmar1sKcm8rYoHNu6Y6hgzinyiJZE0)" />
+     <img src="https://i.pinimg.com/564x/6a/25/ff/6a25ff0e2c8d33e6ede55cb939774ce2.jpg" />
  </div>
 <h2 align="left">🛠️ Languages - Tools 🛠️</h2>
 <br/>
