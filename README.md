@@ -7,7 +7,7 @@
 <h3 align="left">An Ambitious Software Engineer in the making, from Lebanon </h3>
 <br/>
  
- <img align="right" height=250 width=300 src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDVuOHY4Y3Fyd2ZmZHQzNGxqdWZnaTFiOXNrdDhiMnlwZjJlcDdiYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" />
+ <img align="right" height=250 width=300 src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjh4N2M4bjRvNW0xYmt6cjNiNGt4eDR1MnY5ejlrY2dxaGN1NXU0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h408T6Y5GfmXBKW62l/giphy.gif" />
  
 <div align="left">
     
