@@ -7,7 +7,7 @@
 <h3 align="left">An Ambitious Software Engineer in the making, from Lebanon </h3>
 <br/>
  
- <img align="right" width=350 src="https://cdn.dribbble.com/users/2704414/screenshots/7466903/media/b08ab576316bd4582fef189f471cd9e5.gif" />
+ <img align="right" width=350 src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" />
  
 <div align="left">
     
