@@ -7,7 +7,7 @@
 <h3 align="left">An Ambitious Software Engineer in the making, from Lebanon </h3>
 <br/>
  
- <img align="right" width=350 height=280 background-color=000 src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" />
+ <img align="right" width=350 height=280 background-color=000 src="https://www.canva.com/design/DAGVktZwDb4/FMAOiSGhyySa9cWRcXoXPw/watch?utm_content=DAGVktZwDb4&utm_campaign=designshare&utm_medium=link&utm_source=editor" />
  
 <div align="left">
     
