@@ -27,8 +27,8 @@
 <h2 align="left">🛠️ Languages - Tools 🛠️</h2>
 <br/>
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,androidstudio" />
-    <img src="https://skillicons.dev/icons?i=github,git,python,java,c sharp" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,vscode" />
+    <img src="https://skillicons.dev/icons?i=github,git,python,java" /><br>
 </div>
 
 <br/>
