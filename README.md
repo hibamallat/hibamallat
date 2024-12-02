@@ -15,7 +15,7 @@
 
 📚 Passionate about continuous learning in tech
 
-🐍 I’m currently learning: **Python**
+🐍 I’m currently learning: **Python, Javascript**
 
 💌 You can reach me at: **hibamallat040@gmail.com**
 
